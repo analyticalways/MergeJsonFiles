@@ -7,6 +7,10 @@
     <ToolCommandName>mergejsonfiles</ToolCommandName>
     <Authors>Analyticalways</Authors>
     <Company>Analyticalways</Company>
+    <RepositoryUrl>https://github.com/analyticalways/MergeJsonFiles</RepositoryUrl>
+    <PackageTags>json</PackageTags>
+    <PackageProjectUrl>https://github.com/analyticalways/MergeJsonFiles</PackageProjectUrl>
+    <Description>A .NET command line tool to merge 2 input .json files into 1 output file.</Description>
   </PropertyGroup>
 
   <ItemGroup>
