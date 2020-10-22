@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeJsonFiles", "src\MergeJsonFiles\MergeJsonFiles.csproj", "{8B80CC9C-F636-4D35-BFF9-B29185D91A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeJsonFiles.Tests", "tests\MergeJsonFiles.Tests\MergeJsonFiles.Tests.csproj", "{7EEB9063-076D-4C13-A30B-063417B44857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B80CC9C-F636-4D35-BFF9-B29185D91A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B80CC9C-F636-4D35-BFF9-B29185D91A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B80CC9C-F636-4D35-BFF9-B29185D91A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B80CC9C-F636-4D35-BFF9-B29185D91A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEB9063-076D-4C13-A30B-063417B44857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEB9063-076D-4C13-A30B-063417B44857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEB9063-076D-4C13-A30B-063417B44857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEB9063-076D-4C13-A30B-063417B44857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A0883CF-FEE3-4A29-AF47-EA436666EA55}
+	EndGlobalSection
+EndGlobal
