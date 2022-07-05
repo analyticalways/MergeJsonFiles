@@ -1,3 +1,5 @@
+[![NuGet](http://img.shields.io/nuget/vpre/MergeJsonFiles.svg?label=NuGet)](https://www.nuget.org/packages/MergeJsonFiles/)
+
 # mergejsonfiles
 
 A .NET command line tool to merge 2 input .json files into 1 output file, using the `Newtonsoft.json` library, being able to specify the handling of arrays and nulls during the process.
